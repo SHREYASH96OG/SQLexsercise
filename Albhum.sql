@@ -1,6 +1,5 @@
 -- album database
 -- mysql version
--- as of 2019-04-17 bw
 
 CREATE DATABASE IF NOT EXISTS album DEFAULT CHARSET = utf8;
 USE album;
